@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+ width:50%;
+}
+</style>
+<div>
+<h1 align="center">STUDENT EDUCATION DETAILS</h1>
+</div>
+<center>
+<table>
+ <tr bgcolor="gray">
+ <th>First Name</th>
+ <th>Last Name</th>
+ <th>Roll No</th>
+ <th>Branch</th>
+ <th>CGPA</th>
+ <th>Phone No</th>
+ </tr>
+<tr>
+ <td>Nayab</td>
+ <td>Shaik</td>
+ <td>209X1A0109</td>
+ <td>CIVIL</td>
+ <td>9.8</td>
+ <td>8790601506</td>
+ </tr>
+ <tr>
+ <td>Sreebha</td>
+ <td>Bhumireddy</td>
+ <td>209X1A0508</td>
+ <td>CSE</td>
+ <td>9.5</td>
+ <td>6301700355</td>
+ </tr>
+<tr>
+ <td>Swapna</td>
+ <td>Shriram</td>
+ <td>209X1A0255</td>
+ <td>EEE</td>
+ <td>9.43</td>
+ <td>8555099324</td>
+ </tr>
+<tr>
+ <td>Lux</td>
+ <td>Allen</td>
+ <td>209X1A0452</td>
+ <td>ECE</td>
+ <td>9.31</td>
+ <td>9390840693</td>
+ </tr>
+ <tr>
+ <td>Sid</td>
+ <td>Singh</td>
+ <td>209X1A05J9</td>
+ <td>CSB</td>
+ <td>9.20</td>
+ <td>9390205957</td>
+ </tr>
+<tr>
+ <td>Shankar</td>
+ <td>Tulabandi</td>
+ <td>209X1A05K3</td>
+ <td>CST</td>
+ <td>9.11</td>
+ <td>6281144760</td>
+ </tr>
+<tr>
+ <td>Jessy</td>
+ <td>James</td>
+<td>209X1A05L7</td>
+ <td>CSD</td>
+ <td>9.00</td>
+ <td>7995325238</td>
+ </tr>
+<tr>
+ <td>Bhoomi</td>
+ <td>Bandari</td>
+ <td>209X1A0597</td>
+ <td>CSM</td>
+ <td>8.97</td>
+ <td>8897139599</td>
+ </tr>
+<tr>
+ <td>Rasool</td>
+ <td>Sayyad</td>
+ <td>209X1A0333</td>
+ <td>ME</td>
+ <td>8.9</td>
+ <td>7702596664</td>
+ </tr>
+</table>
+</center>
+</body>
+</html>

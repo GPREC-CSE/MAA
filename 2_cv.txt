@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+<h1 align="center"><u>RESUME</u></h1>
+<p><b><u>SREEBHA BHUMIREDDY</u></b><br>
+10/128-6-32,Badvel Road,Mydukur,Kadapa(dst)<br>Andhra Pradesh.<br>Contact No: 
+<b>6301700355</b><br>
+Email:<a href=mailto:<nowiki>sreebhaprabhasree@gmail.com</a></p>
+<div style="background-color:gray"><h2><u><i>Career Objective</i></u></h2></div>
+<p><li>I want to work with an organization that can give me ample opportunities to grow so that 
+I will be able to help in the growth of that organization and will be able to enhance my skills and 
+my capabilities.</li></p>
+<div style="background-color:gray"><h2><u><i>Personal Skills</i></u></h2></div>
+<p><li>Good verbal and written communication skills, ability to work in a team, steadfast in 
+ Learning new things, good logical thinking, positive thinking, self-confidence.
+<li>Convince others with communication skills, Self –motivate. </li></p> <style>
+table, th, td {
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+th, td {
+padding: 15px;
+}
+</style>
+<div style="background-color:gray"><h2><u><i>Academic Qualifications</i></u></h2>
+</div>
+<table align="center">
+<tr align="center">
+<td><b>Course</td>
+<td><b>University/Board</td>
+<td><b>Year of Passing</td>
+ <td><b>School/College</td>
+ <td><b>Percentage of Marks(%)</td>
+ </b></tr>
+ <tr>
+ <td>B.Tech</td>
+ <td>JNTUA</td>
+ <td>2024</td>
+ <td>G.Pulla Reddy Engineering College(Autonomous),Kurnool</td>
+ <td>93%</td>
+ </tr>
+ <tr>
+ <td>Intermediate</td>
+ <td>Board of Intermediate Education(BIEAP)</td>
+ <td>2020</td>
+ <td>Medha Junior College,Mydukur</td>
+ <td>98.2%</td>
+ </tr>
+ <tr>
+ <td>SSC</td>
+ <td>Board of Secondary Education</td>
+ <td>2018</td>
+ <td>ST.Alphones Liguori E.M High School,Mydukur</td>
+ <td>100%</td>
+ </tr>
+</table>
+<div style="background-color:gray"><h2><u><i>Technical Skills</i></u></h2></div>
+<p><li>MS OFFICE<br></li>
+<li>C,Java,Python<br></li>
+<li>SQL</li>
+<div style="background-color:gray"><h2><u><i>Projects</i></u></h2></div>
+<p><b>Technical</b></p>
+<p><li>Internship on Web Development from Bolt IoT</li></p>
+<p><li>Internship on Python Programming from Internshala</li></p> 
+<p><b>Non-Technical</b></p>
+<p><li>Community service project on Aadhaar Digitalization</li></p>
+<div style="background-color:gray"><h2><u><i>Personal Details</i></u></h2></div>
+<p><b>Father's Name</b>&emsp;&emsp;&emsp;&emsp; B.Prabhakar Rao<br>
+<b>Mother's Name</b>&emsp;&emsp;&emsp;&emsp;B.Gangamma<br>
+<b>Date of birth</b>&emsp;&emsp;&emsp;&emsp;&emsp;02/08/2002<br>
+<b>Sex</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Female<br>
+<b>Marital Status</b>&emsp;&emsp;&emsp;&emsp; Unmarried<br>
+<b>Languages Known</b>&emsp;&emsp; Telugu,Hindi,English<br>
+<b>Hobbies</b>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Singing,Painting,Readin
+g books,Browsing net,Gardening<br>
+<div style="background-color:gray"><h2><u><i>Declaration</i></u></h2></div>
+<p>&emsp;&emsp;I solemnly declare that the details furnished above are correct to the best of 
+my knowledge and belief.</p>
+<p>Date: 16/08/22<br>
+Place: Kurnool </p> <p align="right">(BHUMIREDDY SREEBHA)</p>
